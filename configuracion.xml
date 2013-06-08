@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuracion>
+	<datos>
+		<ip>172.17.7.43</ip>
+		<puerto>8888</puerto>		
+	</datos>
+</configuracion>
